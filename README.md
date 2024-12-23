@@ -9,6 +9,12 @@ TOAST
 
 Experiments building an Operating System for the Raspberry Pi
 
+- Preemptive multitasking operating system 
+- Basic-terminal I/O
+- "Concurrent Euclid"-inspired monitor-based synchronization programming model
+- Implemented in C and Assembly (ARM)
+
+
 Pre-reqs
 --------
 
